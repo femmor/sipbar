@@ -289,6 +289,7 @@ Form
 
 .form-control label {
   display: block;
+  text-align: center;
   margin-bottom: 1.25rem;
   font-weight: bold;
   letter-spacing: 0.25rem;
