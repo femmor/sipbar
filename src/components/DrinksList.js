@@ -2,9 +2,10 @@ import React from 'react'
 
 const DrinksList = () => {
   return (
-    <div>
-      DrinksList component
-    </div>
+    <section className="section">
+      <h2 className="section-title">sipbar lounge cocktails</h2>
+      <div className="cocktails-center"></div>
+    </section>
   )
 }
 

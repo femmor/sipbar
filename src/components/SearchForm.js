@@ -2,9 +2,9 @@ import React from 'react'
 
 const SearchForm = () => {
   return (
-    <div>
+    <section className="section search">
       Search form
-    </div>
+    </section>
   )
 }
 
